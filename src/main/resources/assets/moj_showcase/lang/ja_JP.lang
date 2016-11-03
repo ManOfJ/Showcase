@@ -1,0 +1,20 @@
+tile.moj_showcase.showcase.name=Showcase
+
+moj_showcase.chat.showcase_permission_denied=アクセス権限がありません
+
+moj_showcase.gui.showcase.button_prev=前のアイテム
+moj_showcase.gui.showcase.button_next=次のアイテム
+moj_showcase.gui.showcase.button_reset=初期化
+moj_showcase.gui.showcase.button_undo=取消
+moj_showcase.gui.showcase.button_confirm=決定
+
+moj_showcase.gui.showcase.setting_scale=大きさ
+moj_showcase.gui.showcase.setting_default_rotation_pitch=X軸 ベース
+moj_showcase.gui.showcase.setting_default_rotation_yaw=Y軸 ベース
+moj_showcase.gui.showcase.setting_default_rotation_roll=Z軸 ベース
+moj_showcase.gui.showcase.setting_rotation_pitch=X軸
+moj_showcase.gui.showcase.setting_rotation_yaw=Y軸
+moj_showcase.gui.showcase.setting_rotation_roll=Z軸
+moj_showcase.gui.showcase.setting_step_rotation_pitch=X軸 回転速度
+moj_showcase.gui.showcase.setting_step_rotation_yaw=Y軸 回転速度
+moj_showcase.gui.showcase.setting_step_rotation_roll=Z軸 回転速度

@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "moj_showcase:blocks/showcase_simple"
+    }
+}

@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "normal": { "model": "moj_showcase:showcase_simple" }
+    }
+}

@@ -1,0 +1,20 @@
+tile.moj_showcase.showcase.name=Showcase
+
+moj_showcase.chat.showcase_permission_denied=You don't have access privileges
+
+moj_showcase.gui.showcase.button_prev=Previous Item
+moj_showcase.gui.showcase.button_next=Next Item
+moj_showcase.gui.showcase.button_reset=Default
+moj_showcase.gui.showcase.button_undo=Undo
+moj_showcase.gui.showcase.button_confirm=Confirm
+
+moj_showcase.gui.showcase.setting_scale=Scale
+moj_showcase.gui.showcase.setting_default_rotation_pitch=Rotation X Base
+moj_showcase.gui.showcase.setting_default_rotation_yaw=Rotation Y Base
+moj_showcase.gui.showcase.setting_default_rotation_roll=Rotation Z Base
+moj_showcase.gui.showcase.setting_rotation_pitch=Rotation X
+moj_showcase.gui.showcase.setting_rotation_yaw=Rotation Y
+moj_showcase.gui.showcase.setting_rotation_roll=Rotation Z
+moj_showcase.gui.showcase.setting_step_rotation_pitch=Rotation X Step
+moj_showcase.gui.showcase.setting_step_rotation_yaw=Rotation Y Step
+moj_showcase.gui.showcase.setting_step_rotation_roll=Rotation Z Step
